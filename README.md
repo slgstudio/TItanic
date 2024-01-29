@@ -3,7 +3,7 @@ TItanic - TI-BASIC Multitool
 
 Titanic is multitool for developers, students, and teachers. It is coded in TI-BASIC and provides many never before seen features all in one package.
 
-3 WARNING: This project is strictly for EDUCATIONAL purposes ONLY! DONT BE A CHEATER!!!!!
+# WARNING: This project is strictly for EDUCATIONAL purposes ONLY! DONT BE A CHEATER!!!!!
 
 ## Features
 
