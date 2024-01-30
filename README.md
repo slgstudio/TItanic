@@ -17,9 +17,14 @@ Bunny Virus/Self Destruct - Runs the bunny virus. Useful for erasing TItanic and
 
 Clock - Displays the current time. Useful for counting down the hours of class.
 
-Fake Glitch - Displays glitched text. Useful for pranks or messing with your teacher.\
+Fake Glitch - Displays glitched text. Useful for pranks or messing with your teacher.
 
 ## Instructions
+
+Select TITANIC from the program menu on your calculator to run TItanic. Or, use this command:
+'''
+prgmTITANIC
+'''
 
 Press [ON] to stop anytime in TItanic.
 
