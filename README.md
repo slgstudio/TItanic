@@ -22,9 +22,9 @@ Fake Glitch - Displays glitched text. Useful for pranks or messing with your tea
 ## Instructions
 
 Select TITANIC from the program menu on your calculator to run TItanic. Or, use this command:
-'''
+```
 prgmTITANIC
-'''
+```
 
 Press [ON] to stop anytime in TItanic.
 
